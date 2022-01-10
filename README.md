@@ -16,9 +16,6 @@ In my GitHub account, I created a new repository and name it ansible-config-mgt.
 I Installed Ansible using <sudo apt update -y && sudo apt install ansible> and checked if Ansible was up and running. IMAGE 03
 ![03](https://user-images.githubusercontent.com/91284177/148756301-d2ba743b-0881-4aa3-ae02-d2706b536c6a.png)
 
-
-
-
 I configured Jenkins build job to save my repository content every time I changed it. IMAGE 04
 ![04](https://user-images.githubusercontent.com/91284177/148756605-2ad971db-6797-4d9d-a01f-75f3aa9ba94d.png)
 
@@ -39,3 +36,10 @@ I Tested the setup by making some change in README.MD file in master branch and 
 I successfully installed Virtual Studio Code to serve as an Integrated development environment (IDE)  IMAGE 09
 
 ![09](https://user-images.githubusercontent.com/91284177/148757818-545b603c-9aad-4bac-9f89-eb3cbacdba48.png)
+
+
+
+
+
+
+
