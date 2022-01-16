@@ -29,14 +29,17 @@ Configured a Post-build job to save all (**) this is is necessary for github web
 
 I Tested the setup by making some change in README.MD file in master branch and made sure that builds starts automatically and Jenkins saves the files (build artifacts) in following folder. IMAGES 07 & 08
 ![07](https://user-images.githubusercontent.com/91284177/148757574-d9b85903-5bcb-4012-963c-25401a920cfa.png)
+
+
 ![08](https://user-images.githubusercontent.com/91284177/148757553-15c419c2-065c-4b63-9748-291a539ef3dc.png)
 
 **Step 2 – Prepare your development environment using Visual Studio Code**
+Tested my setup by making some change in README.MD file in master branch and made sure that builds starts automatically and Jenkins saves the files (build artifacts) in following folder ls /var/lib/jenkins/jobs/ansible/builds/<build_number>/archive/ IMAGE 09
+![09](https://user-images.githubusercontent.com/91284177/149334232-ae53c845-3019-4097-ae26-daf50aa277b5.png)
 
-I successfully installed Virtual Studio Code to serve as an Integrated development environment (IDE)  IMAGE 09
+I successfully installed Virtual Studio Code to serve as an Integrated development environment (IDE)  IMAGE 10 comfirmed this.
 
-![09](https://user-images.githubusercontent.com/91284177/148757818-545b603c-9aad-4bac-9f89-eb3cbacdba48.png)
-
+![10](https://user-images.githubusercontent.com/91284177/149333901-a3f0587e-e079-4b88-a7c8-b27ea4ebfbde.png)
 
 
 
