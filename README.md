@@ -31,6 +31,7 @@ I Tested the setup by making some change in README.MD file in master branch and 
 ![07](https://user-images.githubusercontent.com/91284177/148757574-d9b85903-5bcb-4012-963c-25401a920cfa.png)
 
 
+
 ![08](https://user-images.githubusercontent.com/91284177/148757553-15c419c2-065c-4b63-9748-291a539ef3dc.png)
 
 **Step 2 – Prepare your development environment using Visual Studio Code**
@@ -41,8 +42,24 @@ I successfully installed Virtual Studio Code to serve as an Integrated developme
 
 ![10](https://user-images.githubusercontent.com/91284177/149333901-a3f0587e-e079-4b88-a7c8-b27ea4ebfbde.png)
 
+STARTED ANSIBLE DEVELOPMENT
+In my ansible-config-mgt GitHub repository, I created a new branch that will be used for development of a new feature. named it 'Prj-11' IMAGE11
 
+![11](https://user-images.githubusercontent.com/91284177/149837687-a2b94851-467c-4c61-a54b-7c6ed8650b06.png)
+I created two directories and named them Playbook (it was used to store all my playbook files.) and Inventory (it was used to keep my hosts organised.)
+Within the playbooks folder, I created my first playbook, and name it common.yml
 
+Within the inventory folder, I create an inventory file (.yml) for each environment (Development, Staging Testing and Production) i.e dev, staging, uat, and prod respectively. Also Updated my inventory/dev.yml file with this snippet of code: as seen in IMAGE 12
 
+![12](https://user-images.githubusercontent.com/91284177/149838491-8a8b3455-c792-4ad3-819e-f026b9c45715.png)
 
+Step 4 – #Set up an Ansible Inventory#
+
+In common.yml playbook i wrote configuration for repeatable, re-usable, and multi-machine tasks that is common to systems within the infrastructure. Updated my playbooks/common.yml file IMAGE 13
+
+![13](https://user-images.githubusercontent.com/91284177/149839450-6a257263-3111-4ac1-b46e-76651fe469dc.png)
+
+Commited the changes to file to my prj-11 branch accordingly. IMAGE 14
+
+![14](https://user-images.githubusercontent.com/91284177/149839524-c62a17a4-f905-436c-afd1-26fef6df162a.png)
 
