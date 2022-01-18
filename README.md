@@ -30,8 +30,6 @@ Configured a Post-build job to save all (**) this is is necessary for github web
 I Tested the setup by making some change in README.MD file in master branch and made sure that builds starts automatically and Jenkins saves the files (build artifacts) in following folder. IMAGES 07 & 08
 ![07](https://user-images.githubusercontent.com/91284177/148757574-d9b85903-5bcb-4012-963c-25401a920cfa.png)
 
-
-
 ![08](https://user-images.githubusercontent.com/91284177/148757553-15c419c2-065c-4b63-9748-291a539ef3dc.png)
 
 **Step 2 – Prepare your development environment using Visual Studio Code**
@@ -62,4 +60,31 @@ In common.yml playbook i wrote configuration for repeatable, re-usable, and mult
 Commited the changes to file to my prj-11 branch accordingly. IMAGE 14
 
 ![14](https://user-images.githubusercontent.com/91284177/149839524-c62a17a4-f905-436c-afd1-26fef6df162a.png)
+Pushed the changes to the brach prj-11. IMAGE 15
+
+![15](https://user-images.githubusercontent.com/91284177/149939384-fb99d127-880a-4fbb-9836-6f4f7ee8a1c0.png)
+I pushed the udtated brach to the mian repo in github, the processes is represented IMAGES 16-21
+![16](https://user-images.githubusercontent.com/91284177/149974976-b6baa192-6edd-45b3-ad76-64f3cefc562f.png)
+![17](htt![18](https://user-images.githubusercontent.com/91284177/149975040-12908189-7b22-4ef6-8f22-bc2b6cf141df.png)
+![18](https://user-images.githubusercontent.com/91284177/149975075-153d519a-0dd6-4c6a-bd4b-240e8bbbcbbc.png)
+![19](https://user-images.githubusercontent.com/91284177/149975118-47d712d7-1def-4633-833a-88cad0ecb904.png)
+![20](https://user-images.githubusercontent.com/91284177/149975147-b9011f5f-4028-409a-ac41-8ff25e459f3a.png)
+![21](https://user-images.githubusercontent.com/91284177/149975173-48d754da-dbc8-4afe-9ede-3aa48b978d7f.png)
+
+I comfirmed Jenkins pushed the updated messages in inventory to my ansible-jenkins server. IMAGE 22-23
+![22](https://user-images.githubusercontent.com/91284177/149975667-b355ca21-5c8d-4a8e-ba33-2af68de48a6a.png)
+![23](https://user-images.githubusercontent.com/91284177/149975720-a7dfbe31-51cc-4f41-b293-8db05743757e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
