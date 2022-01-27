@@ -75,12 +75,24 @@ I comfirmed Jenkins pushed the updated messages in inventory to my ansible-jenki
 ![22](https://user-images.githubusercontent.com/91284177/149975667-b355ca21-5c8d-4a8e-ba33-2af68de48a6a.png)
 ![23](https://user-images.githubusercontent.com/91284177/149975720-a7dfbe31-51cc-4f41-b293-8db05743757e.png)
 
+I successfuly my connected my virtual studio code with my jenkins server. IMAGE 24 
+![24](https://user-images.githubusercontent.com/91284177/151419739-12654305-eedd-4179-a70a-d70d57cb9a72.png)
+I successfully ran the first ansible playbook IMAGE 25
+![25](https://user-images.githubusercontent.com/91284177/151420125-bc9a341c-22ff-45d4-a984-14f90222a2db.png)
 
 
+I confirmed wireshark was successfully installed in all the instances through jenkins ansible. (LB, WEB1, WEB2, DB and NFS) IMAGES 26-30
+![26](https://user-images.githubusercontent.com/91284177/151420423-f7679ba2-c2c8-4d96-932c-10514af3f6eb.png)
+![27](https://user-images.githubusercontent.com/91284177/151420432-a79f4140-4c24-4329-9827-25010b115d16.png)
+![28](https://user-images.githubusercontent.com/91284177/151420437-22920c3d-6825-4165-9f07-ab8ce1b2b089.png)
+![29](https://user-images.githubusercontent.com/91284177/151420444-195377b1-c94f-4cf6-a534-1843a11f91ef.png)
+![30](https://user-images.githubusercontent.com/91284177/151420456-d950c3c2-45a6-4080-bcd3-c80413fadfb6.png)
 
-
-
-
+I Updated my ansible playbook with some new Ansible tasks and through the full checkout-> change codes -> commit -> PR -> merge -> build -> ansible-playbook
+I instructed playbook ansible to add Lagos west africa time to the servers. (LB, WEB1, WEB2, DB and NFS) and ran it accordigly. IMAGE 31
+![31](https://user-images.githubusercontent.com/91284177/151421266-c58a6948-48ed-4614-aa71-cf029f9d820e.png)
+The servers were automatically updated by jenkins ansible. IMAGE 32 shows NFS jenkins ansible update. all other servers were also updated accordingly
+![32](https://user-images.githubusercontent.com/91284177/151421546-c0fb48df-3a77-4596-a176-0a49d6a8b016.png)
 
 
 
