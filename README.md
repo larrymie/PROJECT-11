@@ -91,7 +91,9 @@ I confirmed wireshark was successfully installed in all the instances through je
 I Updated my ansible playbook with some new Ansible tasks and through the full checkout-> change codes -> commit -> PR -> merge -> build -> ansible-playbook
 I instructed playbook ansible to add Lagos west africa time to the servers. (LB, WEB1, WEB2, DB and NFS) and ran it accordigly. IMAGE 31
 ![31](https://user-images.githubusercontent.com/91284177/151421266-c58a6948-48ed-4614-aa71-cf029f9d820e.png)
-The servers were automatically updated by jenkins ansible. IMAGE 32 shows NFS jenkins ansible update. all other servers were also updated accordingly
+The servers were automatically updated by jenkins ansible. IMAGE 32 shows NFS jenkins ansible update. all other servers were also updated
+accordingly
+
 ![32](https://user-images.githubusercontent.com/91284177/151421546-c0fb48df-3a77-4596-a176-0a49d6a8b016.png)
 
 
