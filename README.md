@@ -96,7 +96,11 @@ accordingly
 
 ![32](https://user-images.githubusercontent.com/91284177/151421546-c0fb48df-3a77-4596-a176-0a49d6a8b016.png)
 
-*CHALLEGES FACED* (Error codes) IMAGES A-E
+
+
+
+
+**CHALLEGES FACED** (Error codes) IMAGES A-E
 
 
 
@@ -105,6 +109,9 @@ accordingly
 ![C](https://user-images.githubusercontent.com/91284177/151674194-40c7b24a-f71e-44b3-9117-800fb0f29f6c.png)
 ![D](https://user-images.githubusercontent.com/91284177/151674197-7a1850da-e82e-4a0e-a7f0-389ad0e83b30.png)
 ![E](https://user-images.githubusercontent.com/91284177/151674202-08967fde-6ba1-48a5-aef3-b756a181038e.png)
+
+
+
 
 All of the error codes were troubleshooted and successfully solved
 
