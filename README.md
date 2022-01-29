@@ -96,7 +96,7 @@ accordingly
 
 ![32](https://user-images.githubusercontent.com/91284177/151421546-c0fb48df-3a77-4596-a176-0a49d6a8b016.png)
 
-#CHALLEGES FACED# (Error codes) IMAGES A-E
+*CHALLEGES FACED* (Error codes) IMAGES A-E
 
 
 
